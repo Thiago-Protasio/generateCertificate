@@ -1,3 +1,4 @@
+![Certificate Screenshot](https://raw.githubusercontent.com/Thiago-Protasio/generateCertificate/master/readmeImage.jpg)
 
 # Certificate Generator
 
